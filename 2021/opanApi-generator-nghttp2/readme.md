@@ -11,6 +11,8 @@ UDR
 
 ## work list
 
+need to study how to use nghttp2 and write a simple example with nghttp2/static json/rapid json support and then convert the example to openAPI example.
+
 1. openapi generator support for nghttp2 C++ server -- to do
 1.1 openapi core language change(language support for java)
 1.2 mustache support file writting
