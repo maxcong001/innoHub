@@ -32,6 +32,7 @@ need to study how to use nghttp2 and write a simple example with nghttp2/static 
 1. query parameter? base_64?
 2. path decode : /pet/:petId/uploadImage, how to route to the handler
 3. route design(http2 asio do not have this )
+4. use nghttp2 route / and develope now route? 
 
 
 
